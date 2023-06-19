@@ -33,4 +33,4 @@ Proximal Policy Optimization is the one of state of the art reinforcement learni
 
 All solved environments with hyperparameters are available here
 [opeanai_ppo.ipynb](https://github.com/mandrakedrink/PPO-pytorch/blob/master/opeanai_ppo.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1ejncwwEshbPseOtXN3NzeF2lvMF0CTf_?usp=sharing)<br>
-The code is based on this repository - https://github.com/MrSyee/pg-is-all-you-need.
+The code is based on this repository - https://github.com/MrSyee/pg-is-all-you-need & https://github.com/mandrakedrink/PPO-pytorch/.
